@@ -1,5 +1,6 @@
 {
   "expo": {
+    "newArchEnabled": true,
     "name": "rn-starter-1",
     "slug": "rn-starter-1",
     "version": "1.0.0",
